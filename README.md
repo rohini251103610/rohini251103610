@@ -1,6 +1,5 @@
 # Hi there, I'm Rohini R 👋
-
-Welcome to my GitHub profile! I'm passionate about web development and love working with technologies like HTML, CSS, JavaScript, and React to create responsive and dynamic web applications.
+Welcome to my Github profile! I'm passionate developer with a deep interest in web development and software engineering. My journey in programming began with building simple websites, and over time, I've developed a strong love for creating dynamic and efficient web applications..
 
 ## 🚀 About Me
 
@@ -20,13 +19,13 @@ Welcome to my GitHub profile! I'm passionate about web development and love work
 
 ## 📈 GitHub Stats
 
-![Sowndharya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sowndharya1704&show_icons=true&theme=radical)
+![Rohini's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohini251103610&show_icons=true&theme=radical)
 
 ## 📫 How to Reach Me
 
 - [LinkedIn]()
-- [Twitter]()
-- [Portfolio]()
+- [Leetcode]()
+- [Instagram]()
 
 Feel free to check out my repositories and leave a star if you find something interesting. I'm always open to feedback and collaboration opportunities!
 
