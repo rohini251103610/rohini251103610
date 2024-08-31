@@ -23,9 +23,8 @@ Welcome to my Github profile! I'm passionate developer with a deep interest in w
 
 ## 📫 How to Reach Me
 
-- [LinkedIn]()
-- [Leetcode]()
-- [Instagram]()
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohini-r- b9b6a6287)
+
 
 Feel free to check out my repositories and leave a star if you find something interesting. I'm always open to feedback and collaboration opportunities!
 
