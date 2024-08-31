@@ -20,11 +20,12 @@ Welcome to my Github profile! I'm passionate developer with a deep interest in w
 ## 📈 GitHub Stats
 
 ![Rohini's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohini251103610&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rohini251103610&layout=compact&theme=radical)
 
 ## 📫 How to Reach Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohini-r- b9b6a6287)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rohini-r- b9b6a6287)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rohinirachelr@gmail.com)
 
 Feel free to check out my repositories and leave a star if you find something interesting. I'm always open to feedback and collaboration opportunities!
 
